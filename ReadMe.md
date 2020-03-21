@@ -2,8 +2,7 @@ Best Jaunt is a flight Booking Platform which also serves as a tour suggestion s
 The main target audience of Best Jaunt would be people who do not mind having long layovers for a cheaper price. 
 They can book a tour in the same city as their layover and have a tremendous experience and also pay using matic. We make suggestions based on factors like:-
 
-1)Time of Travel
-2)Duration of Layovers
+1)Time of Travel 2)Duration of Layovers
 3)Age
 4)Interest Areas
 5)Previous Experiences
@@ -11,6 +10,7 @@ They can book a tour in the same city as their layover and have a tremendous exp
 We plan to add more factors in the future. Our platform can also be integrated on any trip booking site(Cheapflights, uber). 
 We also have a feature where you can try out free food samples from different restaurants on your way.
 Matic is used to make crypto payments.
+
 ---------------------------------------------------------------------------------------------------------------------------------------
 Technical Report:
 
@@ -31,6 +31,7 @@ Modules used--
 5)Date Parser
 6)Json
 7)Matic SDK
+
 --------------------------------------------------------------------------------------------------------------------------------------
 How is Best Jaunt built?
 
@@ -63,14 +64,14 @@ c)Above Information is used to derive the following:
 3)Duration of Layover
 4)Duration of Each Flight
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Tour System:
 
 We used Points of Interest API (available from both Amadeus and TomTom) to point out most visited places in the given city and made a
 calculated route usingTomTom's API using time constraints and then the Map is displayed using JavaScript on a different page.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 How to use it?
 
