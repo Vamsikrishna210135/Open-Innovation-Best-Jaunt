@@ -16,8 +16,8 @@ Technical Report:
 
 Technologies used--
 1)Python
-2)Amadeus API (Sponsored)
-3)TomTom API (Sponsored)
+2)Amadeus API 
+3)TomTom API 
 4)HTML/CSS
 5)JavaScript
 6)Jinjja
