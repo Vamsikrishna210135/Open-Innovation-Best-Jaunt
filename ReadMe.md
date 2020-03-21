@@ -75,7 +75,7 @@ calculated route usingTomTom's API using time constraints and then the Map is di
 
 How to use it?
 
-a)fork this repository or clone it from https://github.com/iam-abbas/Stellio.git
+a)fork this repository or clone it from https://github.com/Vamsikrishna210135/Open-Innovation-Best-Jaunt
 b)installing following using PIP
 c)amadeus
 d)iso8601
